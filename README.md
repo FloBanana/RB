@@ -1,4 +1,4 @@
-RB BurgerShop Simulator
+# RB BurgerShop Simulator
 
 In diesem Repository ist der Code einer Praktikumsaufgabe, welche 
 im Rahmen des Moduls Rechnernetze und Betriebssysteme gestellt wurde.
@@ -25,3 +25,5 @@ Das Kerngeschäft ihres Unternehmens ist der Verkauf von Burger,  Verkauf und P
  
 Es sollte im ersten Schritt ein UML Diagramm erstellt werden, dass die  Verantwortlichkeiten deutlich macht. Zu schützende Bereiche sind zu identifizieren. Auf  „Aktives Warten“ ist zu verzichten.  
 Weiter braucht die Personalabteilung noch fünf Fragen zum Thema Nebenläufigkeit, um  bei einem Telefoninterview eine Filterung der Kandidaten vorzunehmen.   Für die Abgabe gelten die bekannten Rahmenbedingungen.
+
+### Autor: Prof. Martin Becke
